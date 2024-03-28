@@ -1,7 +1,7 @@
 # SQL-Rockbuster-Analysis
 This repository contains SQL queries tailored to analyze and optimize Rockbuster Stealth data, supporting the launch of its online video rental service amidst intense competition from various streaming platforms.
-
-Key Questions and Objectives
+**
+Key Questions and Objectives**
 
 The Rockbuster Stealth Management Board has posed several key business inquiries, seeking data-driven responses to inform their 2020 company strategy. 
 Here are the primary questions they aim to address:
