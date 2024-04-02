@@ -17,12 +17,12 @@ Here are the primary questions they aim to address:
 
 ● Do sales figures vary between geographic regions?
 
-## **DATA**
+## **Data**
 
 For this project, the Rockbuster dataset is fabricated and provided by CareerFoundry. 
 The dataset contains information about Rockbuster’s customers, staff, film inventory, payments, store locations, movie languages and actors.
 The data is analyzed using relational database management system and Postgre SQL.
 
-## **VISUALIZATIONS**
+## **Visualizations**
 
 Visualizations are created using Tableau and can be viewed here as [Tableau dashboard](https://public.tableau.com/app/profile/usha.bharati.telikicherla/viz/RockbusterStealth_17074281002540/RockbusterStealth-DataAnalysis)
